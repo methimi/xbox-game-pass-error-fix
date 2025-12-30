@@ -77,7 +77,7 @@ You can verify the file using **VirusTotal** before running it.
 
 A full step-by-step video guide is available on YouTube:
 
-👉 https://YOUTUBE-VIDEO-LINKIN.com
+👉 https://www.youtube.com/watch?v=aNl1RmkbZDY
 
 ---
 
