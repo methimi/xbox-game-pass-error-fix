@@ -69,6 +69,8 @@ xbox app windows 11
 microsoft store xbox error
 
 ---
+## License
+This project is licensed under the MIT License.
 
 ⭐ If this tool helped you, please consider starring the repository!
 
