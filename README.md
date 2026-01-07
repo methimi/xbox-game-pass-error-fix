@@ -48,6 +48,16 @@ A full step-by-step video guide is available on YouTube:
 
 ---
 
+### 🛡️ VirusTotal Scan
+This release has been scanned with VirusTotal.
+
+🔗 https://www.virustotal.com/gui/file/eee25755c7a926de1e9dd6e2408e5a2c8404d9bfe64d41565a0630dcebb3fd3e/detection
+
+⚠️ Any detections are false positives caused by PyInstaller packaging and low reputation.
+The application is open source and contains no malicious behavior.
+
+---
+
 ## 📈 SEO Keywords (for discoverability)
 
 xbox game pass error 0x80070426
