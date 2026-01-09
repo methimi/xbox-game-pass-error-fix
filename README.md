@@ -1,3 +1,9 @@
+🌍 Other languages:
+- 🇷🇺 [Русская версия (README_RU)](README_RU.md)
+- 🇪🇸 [Versión en Español (README_ES)](README_ES.md)
+- 🇧🇷 [Versão em Português (README_PT_BR)](README_PT_BR.md)
+- 🇹🇷 [Türkçe Sürüm (README_TR)](README_TR.md)
+
 # Xbox Game Pass Repair Tool (2026)
 
 Fix **Xbox Game Pass Error 0x80070426** and **ALL other Xbox Game Pass error codes** automatically on **Windows 10 & Windows 11**.
